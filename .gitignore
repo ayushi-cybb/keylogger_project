@@ -1,0 +1,7 @@
+# Ignore logs folder
+logs/
+*.log
+
+# Ignore sensitive files
+config.json
+secret.txt
