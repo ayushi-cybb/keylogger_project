@@ -1,7 +1,15 @@
-# Ignore logs folder
+# Ignore logs
 logs/
 *.log
 
-# Ignore sensitive files
+# Ignore sensitive config files
 config.json
 secret.txt
+credentials.txt
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
